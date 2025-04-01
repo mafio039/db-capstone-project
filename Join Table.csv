@@ -1,0 +1,9 @@
+Customer_ID,Name,Order_ID,Bill_Amount,Menu_Name,Course_Name,Starter_Name
+2,"Jane Smith",2,160.00,"Sushi Delights","Spaghetti Carbonara",Bruschetta
+9,"Daniel Lee",9,210.00,"French Bistro","Chicken Tikka Masala","Onion Rings"
+1,"John Doe",1,300.00,"Classic Italian Feast","Grilled Chicken","Caesar Salad"
+5,"David Brown",5,360.00,"BBQ Grills","Chicken Parmesan","Fried Calamari"
+8,"Sophia Garcia",8,380.00,"Royal Indian Feast","Shrimp Scampi","French Fries"
+3,"Michael Johnson",3,465.00,"Taco Fiesta","Beef Steak","Tomato Soup"
+7,"James Martinez",7,600.00,"Asian Fusion","Lamb Chops","Stuffed Mushrooms"
+4,"Emily Davis",4,680.00,"Mediterranean Munch","Grilled Salmon","Garlic Bread"
